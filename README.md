@@ -16,9 +16,17 @@ Ideal para aplicações que lidam com CNPJs customizados em cenários internos, 
 
 ## 📦 Instalação
 
+Disponível no NPM: [cnpjx-utils](https://www.npmjs.com/package/cnpjx-utils)
+
 ```bash
 npm install cnpjx-utils
 ```
+
+[![npm version](https://img.shields.io/npm/v/cnpjx-utils.svg)](https://www.npmjs.com/package/cnpjx-utils)
+[![npm downloads](https://img.shields.io/npm/dm/cnpjx-utils.svg)](https://www.npmjs.com/package/cnpjx-utils)
+
+Validação e geração de CNPJ com suporte a caracteres alfanuméricos.
+
 
 ---
 
