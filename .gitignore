@@ -1,0 +1,14 @@
+# Node
+node_modules/
+dist/
+npm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# VSCode
+.vscode/
+
+# Build artifacts
+*.js
+*.d.ts
