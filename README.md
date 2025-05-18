@@ -64,7 +64,7 @@ Caracteres alfanuméricos fora da base numérica são tratados como 0 na soma pa
 ## 🛠️ Desenvolvendo Localmente
 
 ```bash
-git clone https://github.com/seu-usuario/cnpjx-utils.git
+git clone https://github.com/MichelDeziderio/cnpjx-utils.git
 cd cnpjx-utils
 npm install
 npm run build
